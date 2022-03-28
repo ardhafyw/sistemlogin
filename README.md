@@ -11,6 +11,8 @@ halaman registrasi
 
 ![image](https://user-images.githubusercontent.com/100121295/160368829-610b4cc2-54f5-4a02-af94-d261c38c4eb2.png)
 
+
+
 registrasi berhasil
 
 ![image](https://user-images.githubusercontent.com/100121295/160369759-cbd155fb-0f08-4997-b1c2-96f609465e7f.png)
@@ -18,6 +20,7 @@ registrasi berhasil
 
 index
 
-![image](https://user-images.githubusercontent.com/100121295/160370242-a7926424-793f-4b7d-a816-da559df36f8d.png)
+![image](https://user-images.githubusercontent.com/100121295/160370499-2c63c0d2-b8c7-4a8b-9b0f-35c797873871.png)
+
 
 
