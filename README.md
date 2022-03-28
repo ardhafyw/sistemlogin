@@ -18,5 +18,6 @@ registrasi berhasil
 
 index
 
-![image](https://user-images.githubusercontent.com/100121295/160369894-1bd1c070-477d-4cb1-80ad-04bdcc5fd4e9.png)
+![image](https://user-images.githubusercontent.com/100121295/160370242-a7926424-793f-4b7d-a816-da559df36f8d.png)
+
 
